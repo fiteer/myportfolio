@@ -198,7 +198,7 @@ p{
 /* Start hero section*/
 
 #hero{
-    background-image: url(./image/5.jpg);
+    background-image: url(./image/8.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -379,7 +379,7 @@ p{
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(./image/f.PNG);
+    background-image: url(./image/8.jpg);
     background-size: cover;
     margin: 10px 5px;
     position: relative;
