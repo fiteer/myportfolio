@@ -531,7 +531,7 @@ p{
 
 #contact .contact-item{
     max-width: 80%;
-    height: 400px;
+    height: 100%;
     text-align: center;
     padding: 30px;
     margin: 20px auto;
@@ -751,6 +751,7 @@ p{
         width: 100%;
         flex-direction: row;
         justify-content: space-between;
+        height: 400px;
     }
     /* End Contact */
 }
